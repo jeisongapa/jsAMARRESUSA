@@ -1443,7 +1443,6 @@ img {
 .cid-tROKBxIp5W {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/image4.jpg");
 }
 .cid-tROKBxIp5W .mbr-fallback-image.disabled {
   display: none;
@@ -1456,6 +1455,7 @@ img {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-tROKBxIp5W .row {
   justify-content: center;
